@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PathShapeDemo</string>
+
+    <!-- sample names -->
+    <string name="sample_simple_shapes">Simple shapes</string>
+    <string name="sample_shape_contour">Contour sample</string>
+    <string name="sample_fill_shape">Fill shapes sample</string>
+    <string name="sample_shape_set">Shape\'s set sample</string>
+    <string name="sample_point_converter">Point converter sample</string>
+    <string name="sample_marks">Marks sample</string>
+    <string name="sample_text">Text path sample</string>
+    <string name="sample_fill_with_effects">Fill shapes effect sample</string>
+    <string name="sample_custom_shape_list">Custom shape list sample</string>
+    <string name="sample_json_parser">JSON parser sample</string>
+
+    <string name="custom_shape_item_title">Item %s</string>
+</resources>
